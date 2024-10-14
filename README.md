@@ -1,6 +1,7 @@
 # Exercise-04b-TileSets-Levels
 
 ## Implementation
+created a hub and 2 levels using tile sets
 
 ## References
 
@@ -11,4 +12,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+William Hoffman
